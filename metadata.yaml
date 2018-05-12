@@ -1,0 +1,28 @@
+_repo: Charles-Sumner--his-Complete-Works-v.-4-20With-an-Introduction-by-Hon.-George-Frisbie-Hoar_45954
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 45954-h/images/coverpage.jpg
+creator:
+  author:
+    agent_name: Sumner, Charles
+    birthdate: 1811
+    deathdate: 1874
+    gutenberg_agent_id: '1986'
+    url: http://www.gutenberg.org/2009/agents/1986
+    wikipedia: http://en.wikipedia.org/wiki/Charles_Sumner
+description: ''
+gutenberg_issued: '2014-06-13'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '45954'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'E300'
+- !lcsh 'Slavery -- United States'
+- !lcsh 'Speeches, addresses, etc., American'
+title: 'Charles Sumner: his complete works, volume 04 (of 20)'
+url: http://www.gutenberg.org/ebooks/45954
